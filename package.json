@@ -1,0 +1,6 @@
+{
+  "name": "joblens",
+  "version": "1.0.0",
+  "description": "Global Job Market Intelligence Dashboard",
+  "engines": { "node": "24.x" }
+}
